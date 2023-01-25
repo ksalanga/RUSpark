@@ -2,7 +2,7 @@
 
 ### In this project I:
 
-- Processed large datasets (100,000 entries) in < 5 seconds.
+- Processed large datasets (100,000 entries) in [< 1 second](https://i.gyazo.com/4c83b52ed90a9122ffa9b6961777a913.png).
 - Parsed CSV files into Java Spark RDDs.
 - Used iterators and maps to transform the RDDs and get a final result.
 
